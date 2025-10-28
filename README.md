@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Celso Oliveira aqui! complementando o desafio da DIO - Inspirado na hype _"Natty or Not"_ do fisiculturismo, segue abaixo o arquivo com uma simples atualização
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,29 +23,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um microlivro (texto + imagem) imersivo que conta a história de um encontro casual em uma cidade futurista, utilizando IAs generativas para texto, imagens conceituais e uma trilha sonora ambiente "lo-fi" para complementar a leitura. O objetivo é testar o quão "humano" e atmosférico o resultado pode ser.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Texto/Roteiro/Diálogo: Gemini Advanced (para a narrativa e refino da linguagem para um tom mais natural/poético).
+
+Imagens: Midjourney V6 (para gerar imagens conceituais de alta resolução e coerência com o texto, focando em iluminação e cinematografia).
+
+Edição/Montagem: Canva (para diagramar o texto com as imagens, criando a estética de um "livro de bolso digital").
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Geração do Conceito e Rascunho 1º Etapa:
+Utilizei o Gemini Advanced para criar uma sinopse inicial e, em seguida, gerar um texto curto com ênfase em descrições sensoriais (cheiro de chuva, luzes de néon, etc.). O prompt focou em: "Um breve encontro casual, diálogo minimalista, cenário de metrópole futurista chuvosa, tom melancólico e contemplativo."
+Criação Visual 2º Etapa:
+Pedi ao Gemini para revisar o texto, substituindo clichês por metáforas mais originais, buscando o tom "natty" e autêntico.
+Gerei três imagens no Midjourney/DALL-E, usando prompts detalhados para garantir a coerência visual
+Montagem Final 3º Etapa:as imagens geradas foram utilizadas como base para um design no Canva para a geracao de um curto ebook, e o texto diagramado dentro desta imagem.
+O projeto resultou em um minilivro digital com a história, uma imagem conceitual. O resultado é extremamente atmosférico.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O maior desafio de criar algo 'natty' (natural/autêntico) com IA reside na edição humana dos prompts. A primeira geração de um texto ou imagem tende a ser previsível. O "natty" só surge quando o humano age como um curador de prompts, forçando a IA a:
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O maior desafio de criar algo 'natty' (natural/autêntico) com IA reside na edição humana dos prompts. A primeira geração de um texto ou imagem tende a ser previsível. O "natty" só surge quando o humano age como um curador de prompts, forçando a IA a:
+1. Subverter clichês (Ex: pedir para descrever o silêncio de uma forma nova, em vez de apenas dizer que estava silencioso).
 
-### Exemplos e Insigths
+2. Focar em emoção em vez de descrição técnica (Ex: “Iluminação que parece saudade” em vez de “Low-key lighting”).
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
